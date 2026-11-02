@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🫁 Pneumonia Detection & Explainable Medical AI Assistant
@@ -225,3 +226,6 @@ This system is developed strictly for **educational and research purposes**. It 
 ### ⭐ If this project was useful, consider starring the repo!
 
 </div>
+=======
+# CNN_PROJECT
+>>>>>>> 59e7dabd67ef27da83d98fdefbed6883a90642f3
